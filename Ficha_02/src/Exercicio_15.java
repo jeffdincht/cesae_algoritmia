@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Exercicio_15 {
     public static void main(String[] args) {
-        System.out.println("Exercicio_14");
+        System.out.println("Exercicio_15");
         Scanner input = new Scanner(System.in);
 
         int num1, num2, num3;
