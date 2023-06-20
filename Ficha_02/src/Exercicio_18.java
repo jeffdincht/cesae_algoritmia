@@ -7,12 +7,12 @@ public class Exercicio_18 {
 
         String cargo;
         int dia, codigo;
-        double venc = 0, alim = 0, irs, ssfunc = 0, ssemp = 0, liq = 0, total = 0;
+        double venc = 0, alim = 0, irs= 0, ssfunc = 0, ssemp = 0, liq = 0, total = 0;
 
         System.out.println("Quantos dias trabalhou? ");
         dia = input.nextInt();
 
-        System.out.println("Qual o Codigo do funcionario? ");
+        System.out.println("Codigo do funcionario");
         codigo = input.nextInt();
 
         System.out.println("Qual seu cargo? \nE - Empregado, \nC - Chefe \nA - Administrador \n");
@@ -26,7 +26,6 @@ public class Exercicio_18 {
                 ssfunc = total * 0.11;
                 ssemp = total * 0.2375;
                 liq = venc + alim - ssfunc - ssemp;
-                cargo = "Empregado";
 
                 break;
             case "C":
@@ -36,8 +35,6 @@ public class Exercicio_18 {
                 ssfunc = total * 0.11;
                 ssemp = total * 0.2375;
                 liq = venc + alim - ssfunc - ssemp;
-                cargo = "Chefe";
-
                 break;
             case "A":
                 venc = 80 * dia;
@@ -46,7 +43,6 @@ public class Exercicio_18 {
                 ssfunc = total * 0.11;
                 ssemp = total * 0.2375;
                 liq = venc + alim - ssfunc - ssemp;
-                cargo = "Admin";
                 break;
             default:
                 System.out.println("Diga o cargo correto");
@@ -61,8 +57,7 @@ public class Exercicio_18 {
             }
             liq = liq - irs;
 
-            System.out.println("Codigo: "+codigo);
-            System.out.println("Cargo: "+cargo);
+            System.out.println("Codigo Func: "+codigo);
             System.out.println("Vencimento: "+venc);
             System.out.println("Alimentacao: "+alim);
             System.out.println("IRS: "+irs);
