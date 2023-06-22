@@ -14,10 +14,9 @@ public class Exercicio_11 {
 
         while (inicio < fim) {
             if (inicio % 5 == 0) {
-                System.out.println("Impares: " + inicio);
+                System.out.println("Multiplos de 5: " + inicio);
             }
             inicio++;
-
         }
     }
 }

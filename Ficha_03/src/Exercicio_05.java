@@ -8,7 +8,6 @@ public class Exercicio_05 {
             soma = soma +num;
             num++;
             System.out.println("Soma dos valores: "+soma);
-
         }
     }
 }
