@@ -15,6 +15,5 @@ public class Exercicio_13 {
             num--;
         }
         System.out.println("Fatorial: "+fatorial);
-
     }
 }
