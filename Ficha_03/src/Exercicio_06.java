@@ -16,11 +16,11 @@ public class Exercicio_06 {
             i++;
         }
 
-        i=num+5;
+         i +=5;
 
         while(i>num){
-            System.out.println("Maiores:"+i);
-            i--;
+            num++;
+            System.out.println("Maiores:"+num);
         }
 
     }

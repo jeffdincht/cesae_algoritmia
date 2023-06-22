@@ -13,7 +13,6 @@ public class Exercicio_07 {
             if(num != -1){
                 soma = soma + num;
                 i++;
-                System.out.println(i);
             }
         }
 
