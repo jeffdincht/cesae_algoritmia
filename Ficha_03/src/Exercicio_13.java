@@ -4,13 +4,16 @@ public class Exercicio_13 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        int num, i, x, valorminimo = 0, valorMinimoExt = 0, fatorial, soma=0;
+        long num, num2, aux, soma = 0, aux2;
 
         System.out.println("Digite um numero: ");
         num = input.nextInt();
-        x = num;
-        i = num;
-        fatorial = num;
+
+
+        num2 = num;
+        aux = num;
+        aux2 = num;
+
 /*
         while(num != 1){
             fatorial = fatorial*(num-1);
@@ -19,19 +22,19 @@ public class Exercicio_13 {
         System.out.println(fatorial);
 */
 
-        //fazendo sem multiplicar (To fazendo exponenciação, preciso tirar um valor do numero a cada vez que retornar ao loop interno)
+        //fazendo sem multiplicar
 
-
-        while (valorMinimoExt < x) {
-            while (valorminimo < i) {
-                soma = soma + num;
-                valorminimo++;
-            }
-            valorMinimoExt++;
-
-        }
+                while (aux > 1) {
+                    soma = 0;
+                    aux2--;
+                    while(num > 0){
+                        soma = soma +aux2;
+                        num--;
+                    }
+                    num = soma;
+                    aux--;
+                }
 
         System.out.println(soma);
-
     }
 }
