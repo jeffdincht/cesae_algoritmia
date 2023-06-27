@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0167963-eb88-431c-9d0c-3ab316a2ba79" name="Changes" comment="" />
+    <list default="true" id="88f7a93a-1047-4d32-bceb-bbcf3fa46c08" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +20,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2RbxyUhFKZmRfUqmy6wA1LgYpWV" />
+  <component name="ProjectId" id="2RmZkotlHCEj7fJqKOvK2NXWHQR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,64 +30,63 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/fdev01/Desktop/cesae_algoritmia/FichaExtraCiclos",
-    "settings.editor.selected.configurable": "advanced.settings"
+    "last_opened_file_path": "C:/Users/fdev01/Desktop/cesae_algoritmia/FichaExtraCiclos"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio_02">
-    <configuration name="Exercicio_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_01" />
-      <module name="Ficha_04" />
+  <component name="RunManager" selected="Application.Exercicio_06">
+    <configuration name="Exercicio_04_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_04_03" />
+      <module name="FichaExtraCiclos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_02" />
-      <module name="Ficha_04" />
+    <configuration name="Exercicio_05_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_05_01" />
+      <module name="FichaExtraCiclos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_03" />
-      <module name="Ficha_04" />
+    <configuration name="Exercicio_05_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_05_02" />
+      <module name="FichaExtraCiclos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_04" />
-      <module name="Ficha_04" />
+    <configuration name="Exercicio_05_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_05_03" />
+      <module name="FichaExtraCiclos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_05" />
-      <module name="Ficha_04" />
+    <configuration name="Exercicio_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_06" />
+      <module name="FichaExtraCiclos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio_02" />
-        <item itemvalue="Application.Exercicio_05" />
-        <item itemvalue="Application.Exercicio_04" />
-        <item itemvalue="Application.Exercicio_03" />
-        <item itemvalue="Application.Exercicio_01" />
+        <item itemvalue="Application.Exercicio_06" />
+        <item itemvalue="Application.Exercicio_05_03" />
+        <item itemvalue="Application.Exercicio_04_03" />
+        <item itemvalue="Application.Exercicio_05_02" />
+        <item itemvalue="Application.Exercicio_05_01" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f0167963-eb88-431c-9d0c-3ab316a2ba79" name="Changes" comment="" />
-      <created>1687532841553</created>
+      <changelist id="88f7a93a-1047-4d32-bceb-bbcf3fa46c08" name="Changes" comment="" />
+      <created>1687857367165</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1687532841553</updated>
+      <updated>1687857367165</updated>
     </task>
     <servers />
   </component>

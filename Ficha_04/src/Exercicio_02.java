@@ -5,11 +5,18 @@ public class Exercicio_02 {
         Scanner input = new Scanner(System.in);
         int num;
 
-        do {
-            System.out.println("Digite: \n1 - Criar \n2- Editar \n3- Eliminar \n4- Sair");
-            num = input.nextInt();
 
-            switch (num){
+        do {
+            do {
+                System.out.println("Digite: \n1- Criar \n2- Editar \n3- Eliminar \n4- Sair");
+                num = input.nextInt();
+
+                if(num < 1 || num > 4){
+                    System.out.println("N é uma opcao valida");
+                }
+
+            } while (num < 1 || num > 4);
+            switch (num) {
                 case 1:
                     System.out.println("Operacao escolhida: Criar");
                     break;
@@ -19,13 +26,9 @@ public class Exercicio_02 {
                 case 3:
                     System.out.println("Operacao escolhida: Eliminar");
                     break;
-                case 4:
-                    break;
                 default:
-                    System.out.println("Digite uma opcao valida");
+                    break;
             }
-
         }while(num != 4);
-
-        }
     }
+}
