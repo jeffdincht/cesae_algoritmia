@@ -4,7 +4,7 @@ public class Exercicio_13 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        long num, aux, soma = 0, aux2;
+        long num, aux, soma = 0, aux2, fatorial;
 
         System.out.println("Digite um numero: ");
         num = input.nextInt();
