@@ -33,15 +33,8 @@
     "last_opened_file_path": "C:/Users/fdev01/Desktop/cesae_algoritmia/Ficha_06"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio_02">
+  <component name="RunManager" selected="Application.Exercicio_05">
     <configuration name="Exercicio_01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_01" />
-      <module name="Ficha_06" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio_01" />
       <module name="Ficha_06" />
       <method v="2">
@@ -55,11 +48,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_03" />
+      <module name="Ficha_06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_04" />
+      <module name="Ficha_06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_05" />
+      <module name="Ficha_06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio_05" />
+        <item itemvalue="Application.Exercicio_04" />
+        <item itemvalue="Application.Exercicio_03" />
         <item itemvalue="Application.Exercicio_02" />
         <item itemvalue="Application.Exercicio_01 (1)" />
-        <item itemvalue="Application.Exercicio_01" />
       </list>
     </recent_temporary>
   </component>
