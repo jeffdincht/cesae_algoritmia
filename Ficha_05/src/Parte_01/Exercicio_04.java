@@ -14,13 +14,11 @@ public class Exercicio_04 {
             if(i == 0){
                 valor = array[i];
             }
-        }
-
-        for (int i = 0; i < 10; i++) {
             if(array[i]<valor){
                 valor = array[i];
             }
         }
+
 
         System.out.println(valor);
     }

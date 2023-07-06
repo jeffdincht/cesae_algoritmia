@@ -12,11 +12,6 @@ public class Exercicio_09 {
             for(int j=0; j<5; j++){
                 System.out.println("Digite um valor");
                 matriz[i][j] = input.nextInt();
-            }
-        }
-
-        for(int i=0; i<5; i++){
-            for(int j=0; j<5; j++){
                 soma = soma + matriz[i][j];
             }
         }

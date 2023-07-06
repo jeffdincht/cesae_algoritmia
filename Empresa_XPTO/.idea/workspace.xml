@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0371d56-f291-445c-820a-92107d8ea721" name="Changes" comment="" />
+    <list default="true" id="5420c50d-d2a7-4bfa-8fad-0105158645cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2SBvGp29AOxFhLgCeOnFEbmKWDb" />
+  <component name="ProjectId" id="2SCNJmkq1A41a32Ht6vSgTOB5kA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,47 +30,31 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/fdev01/Desktop/cesae_algoritmia/Ficha_06"
+    "last_opened_file_path": "C:/Users/fdev01/Desktop/cesae_algoritmia/Ficha_05"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio_02">
-    <configuration name="Exercicio_01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_01" />
-      <module name="Ficha_06" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_01" />
-      <module name="Ficha_06" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_02" />
-      <module name="Ficha_06" />
+  <component name="RunManager">
+    <configuration name="Xpto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Xpto" />
+      <module name="Empresa_XPTO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio_02" />
-        <item itemvalue="Application.Exercicio_01 (1)" />
-        <item itemvalue="Application.Exercicio_01" />
+        <item itemvalue="Application.Xpto" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d0371d56-f291-445c-820a-92107d8ea721" name="Changes" comment="" />
-      <created>1688632696841</created>
+      <changelist id="5420c50d-d2a7-4bfa-8fad-0105158645cd" name="Changes" comment="" />
+      <created>1688646537798</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1688632696841</updated>
+      <updated>1688646537798</updated>
     </task>
     <servers />
   </component>

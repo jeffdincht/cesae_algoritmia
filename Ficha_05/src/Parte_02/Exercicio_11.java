@@ -1,13 +1,28 @@
 package Parte_02;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class Exercicio_11 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        //Random rd = new Random();
         int[][] matriz = new int[3][3];
 
         int maior=0, menor=0;
+
+        // ________________________________________________
+      /*int contador;
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                matriz[i][j] = rd.nextInt(0,99);
+                if (i == 0 && j == 0) {
+                    maior = matriz[i][j];
+                    menor = matriz[i][j];
+                }
+            }
+        }*/
+        // ________________________________________________
 
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
@@ -17,11 +32,6 @@ public class Exercicio_11 {
                     maior = matriz[i][j];
                     menor = matriz[i][j];
                 }
-            }
-        }
-
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 3; j++) {
                 if (matriz[i][j] > maior) {
                     maior = matriz[i][j];
                 }
@@ -30,7 +40,6 @@ public class Exercicio_11 {
                 }
             }
         }
-
 
         for(int i=0; i<3; i++){
             for(int j=0; j<3; j++){

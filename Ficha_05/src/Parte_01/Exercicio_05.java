@@ -13,9 +13,6 @@ public class Exercicio_05 {
         for(int i=0; i<10; i++){
             System.out.println("Digite o valor  da nota"+i);
             array[i] = input.nextInt();
-        }
-
-        for (int i = 0; i < 10; i++) {
             soma = soma + array[i];
         }
 
