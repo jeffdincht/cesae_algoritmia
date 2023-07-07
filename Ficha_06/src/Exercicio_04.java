@@ -14,7 +14,7 @@ public class Exercicio_04 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Digite um numero para verificar");
+        System.out.println("Digite um numero para verificar se é primo");
         int numero = input.nextInt();
 
         System.out.println(primo(numero));
