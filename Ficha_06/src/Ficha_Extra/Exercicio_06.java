@@ -15,7 +15,6 @@ public class Exercicio_06 {
         return soma;
     }
 
-
     public static void main(String[] args) {
         int numero, soma;
 

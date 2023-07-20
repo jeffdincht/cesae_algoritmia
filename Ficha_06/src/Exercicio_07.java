@@ -31,8 +31,7 @@ public class Exercicio_07 {
         int numero = input.nextInt();
 
         int[] array = new int[numero];
-        createArray(numero, array);
-        printArray(numero, array);
-        System.out.println();
+
+        printArray(numero, createArray(numero, array));
     }
 }

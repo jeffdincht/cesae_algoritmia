@@ -5,8 +5,9 @@ public class Exercicio_10 {
     static boolean crescente(int[] array){
         boolean crescente = true;
         for(int i=1; i<array.length; i++){
-            if(array[i]<= array[i-1]){
+            if (array[i] <= array[i - 1]) {
                 crescente = false;
+                break;
             }
         }
         return crescente;

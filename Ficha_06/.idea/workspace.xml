@@ -33,42 +33,10 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/fdev01/Desktop/cesae_algoritmia/Ficha_06&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio_07">
-    <configuration name="Exercicio_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ficha_Extra.Exercicio_04" />
+  <component name="RunManager" selected="Application.Teste">
+    <configuration name="Exercicio_07 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_07" />
       <module name="Ficha_06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ficha_Extra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ficha_Extra.Exercicio_05" />
-      <module name="Ficha_06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ficha_Extra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ficha_Extra.Exercicio_06" />
-      <module name="Ficha_06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ficha_Extra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,8 +54,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_14" />
+    <configuration name="Exercicio_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ficha_Extra.Exercicio_08" />
+      <module name="Ficha_06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ficha_Extra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ficha_Extra.Exercicio_09" />
+      <module name="Ficha_06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ficha_Extra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teste" />
       <module name="Ficha_06" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.Exercicio_07 (1)" />
+        <item itemvalue="Application.Exercicio_09" />
         <item itemvalue="Application.Exercicio_07" />
-        <item itemvalue="Application.Exercicio_14" />
-        <item itemvalue="Application.Exercicio_06" />
-        <item itemvalue="Application.Exercicio_05" />
-        <item itemvalue="Application.Exercicio_04" />
+        <item itemvalue="Application.Exercicio_08" />
       </list>
     </recent_temporary>
   </component>

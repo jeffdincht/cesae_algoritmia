@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 public class Exercicio_07 {
 
-    static int inverterNumero(int numero){
-        int sobra, sobraSomada = 0;
-        while(numero != 0){
-            sobra = numero%10;
-            sobraSomada = sobraSomada *10 + sobra;
-            numero = numero/10;
+    static int inverterNumero(int numero) {
+        int sobra, inverter = 0;
+        while (numero != 0) {
+            sobra = numero % 10;
+            inverter = inverter * 10 + sobra;
+            numero = numero / 10;
         }
-        return sobraSomada;
+        return inverter;
     }
 
 
@@ -22,7 +22,6 @@ public class Exercicio_07 {
         System.out.println("Digite um numero");
         numero = input.nextInt();
 
-
-        inverterNumero
+        System.out.println(inverterNumero(numero));
     }
 }
