@@ -4,11 +4,8 @@ import java.io.PrintWriter;
 
 public class Exercicio_02 {
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("textos/textos.json");
-        PrintWriter printWriter = new PrintWriter(file);
-
-        printWriter.println("oi");
-
+        PrintWriter printWriter = new PrintWriter("textos/textos.json");
+        printWriter.println("\"Alguma Coisa\"");
         printWriter.close();
     }
 }
